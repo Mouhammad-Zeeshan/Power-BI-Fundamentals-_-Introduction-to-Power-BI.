@@ -1,0 +1,38 @@
+Key Words:
+
+1. Chart 
+2. Graph
+3. Card
+4. Slicer
+5. Table
+
+
+1. Transforming data
+2. Power Query
+3. Card
+4. Geographical Data
+
+1. Column Chart (when visualization seem vertical)
+2. Bar Chart (When visualization seems horizontal)
+3. Stacked bar chart
+4. Clusterd bar Chart
+5. Combo Chart
+6. line chart 
+7. Area chart
+8. pie charts
+9. Donut charts
+10. Tree maps
+11. card 
+12. muti row cards
+13. gauge chart
+14. Kpis 
+15. Matrix 
+16. Table
+17. Theme in view
+
+
+1. drilling 
+2. create hierarchy3. Using Filter
+4. interactions
+5. 
+
